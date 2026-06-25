@@ -1,0 +1,7 @@
+
+streamlit
+pandas
+google-generativeai
+sentence-transformers # For embedding generation
+scikit-learn # Example: if you use it for text processing or embeddings
+# Add any other libraries for your specific AI model (e.g., transformers, langchain)
